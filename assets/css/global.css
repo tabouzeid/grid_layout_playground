@@ -1,0 +1,13 @@
+.header-left-side {
+    background-color: green; 
+    padding-left: 50px; 
+    padding-right: 50px;
+}
+.content-section {
+    padding-top: 10px; 
+    background-image: url('../images/grey-stone-background-concrete-wall-texture.jpg');
+}
+.footer-section {
+    border-top: 5px solid green;
+    background-color: gray;
+}
